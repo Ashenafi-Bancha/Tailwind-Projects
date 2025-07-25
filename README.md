@@ -81,4 +81,5 @@ Folders are organized by project or module for clarity.
 
 ## 📂 Folder Structure 
 - 01 Pomodoro.html
+- 02 testimonials.html
 
